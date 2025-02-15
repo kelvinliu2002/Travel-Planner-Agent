@@ -3,6 +3,7 @@
 User inputs travel locations and details:
 - location
 - time frame
+- budget
 - user details (gender, age)
 - activity preferences (optional)
 
